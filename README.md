@@ -46,10 +46,3 @@ No external dependencies required 🎉
 git clone https://github.com/your-username/password-strength-checker.git
 cd password-strength-checker
 
-
-2. **Run in GUI mode**
-python password_strength_checker.py
-
-##📜 License
-
-This project is licensed under the MIT License.
